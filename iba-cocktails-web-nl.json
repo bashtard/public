@@ -1,0 +1,2848 @@
+[
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Bellini",
+    "method": "Giet de perzikpuree in het mengglas met ijs en voeg de Prosecco-wijn toe. Roer voorzichtig en giet het in een gekoeld fluitglas.  Opmerking: PUCCINI - Vers mandarijnsap; ROSSINI - Verse Aardbeienpuree; TINTORETTO - Vers granaatappelsap.",
+    "ingredients": [
+      {
+        "direction": "100 ml Prosecco",
+        "quantity": "100",
+        "unit": "ml",
+        "ingredient": "Prosecco"
+      },
+      {
+        "direction": "50 ml Witte Perzikpuree",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Witte Perzikpuree"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Black Russian",
+    "method": "Giet de ingrediënten in het ouderwetse glas gevuld met ijsblokjes. Roer voorzichtig.  Opmerking: WIT RUSSISCH - Laat er verse room bovenop drijven en roer langzaam door.",
+    "ingredients": [
+      {
+        "direction": "50 ml wodka",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Wodka"
+      },
+      {
+        "direction": "20 ml Koffielikeur",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Koffie Likeur"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Bloody Mary",
+    "method": "Roer alle ingrediënten voorzichtig door elkaar in een mengglas met ijs en giet het in een rotsglas. Opmerking: indien gewenst geserveerd met ijs, giet het in een longdrinkglas.",
+    "garnish": "Selderij, citroenwig (optioneel)",
+    "ingredients": [
+      {
+        "direction": "45 ml Wodka",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Wodka"
+      },
+      {
+        "direction": "90 ml Tomatensap",
+        "quantity": "90",
+        "unit": "ml",
+        "ingredient": "Tomatensap"
+      },
+      {
+        "direction": "15 ml vers citroensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "2 scheutjes Worcestershiresaus",
+        "quantity": "2",
+        "unit": "streepje",
+        "ingredient": "Worcestershiresaus"
+      },
+      {
+        "direction": "tabasco",
+        "quantity": "1",
+        "unit": "streepje",
+        "ingredient": "tabasco"
+      },
+      {
+        "direction": "Selderij Zout",
+        "quantity": "1",
+        "unit": "streepje",
+        "ingredient": "Selderij Zout"
+      },
+      {
+        "direction": "Peper (naar smaak)",
+        "quantity": "1",
+        "unit": "streepje",
+        "ingredient": "Peper",
+        "note": "Naar smaak"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Caipirinha",
+    "method": "Doe de limoen en suiker in een dubbel ouderwets glas en meng voorzichtig. Vul het glas met gebarsten ijs en voeg Cachaça toe. Roer voorzichtig om de ingrediënten erbij te betrekken. Opmerking: CAIPIROSKA - Gebruik wodka in plaats van Cachaça;",
+    "ingredients": [
+      {
+        "direction": "60 ml Cachaça",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Cachaça"
+      },
+      {
+        "direction": "1 Limoen in kleine partjes gesneden",
+        "quantity": "1",
+        "unit": "deel",
+        "ingredient": "Limoen in kleine partjes gesneden"
+      },
+      {
+        "direction": "4 theelepels witte rietsuiker",
+        "quantity": "4",
+        "unit": "theelepel",
+        "ingredient": "Witte Rietsuiker"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Champagne Cocktail",
+    "method": "Doe het suikerklontje met 2 scheutjes bitters in een groot champagneglas en voeg de cognac toe. Giet zacht gekoelde champagne.",
+    "garnish": "Garneer met sinaasappelschil en marasquinkers.",
+    "ingredients": [
+      {
+        "direction": "90 ml gekoelde champagne",
+        "quantity": "90",
+        "unit": "ml",
+        "ingredient": "Gekoelde champagne"
+      },
+      {
+        "direction": "10 ml Cognac",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Cognac"
+      },
+      {
+        "direction": "2 scheutjes Angostura bitters",
+        "quantity": "2",
+        "unit": "streepje",
+        "ingredient": "Angostura-bittertjes"
+      },
+      {
+        "direction": "Enkele druppels Grand Marnier (optioneel)",
+        "quantity": "weinig",
+        "unit": "druppels",
+        "ingredient": "Grote Marnier",
+        "note": "optioneel"
+      },
+      {
+        "direction": "1 suikerklontje",
+        "quantity": "1",
+        "unit": "deel",
+        "ingredient": "Suikerklontje"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Corpse Reviver #2",
+    "method": "Giet alle ingrediënten in een shaker met ijs. Goed schudden en in een gekoeld cocktailglas zeven.",
+    "garnish": "Garneer met sinaasappelschil",
+    "ingredients": [
+      {
+        "direction": "30ml Jenever",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "30 ml Cointreau",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Cointreau"
+      },
+      {
+        "direction": "30 ml Lillet Blanc",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Lillet Blanc"
+      },
+      {
+        "direction": "30 ml vers citroensap",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "1 scheutje Absint",
+        "quantity": "1",
+        "unit": "streepje",
+        "ingredient": "Absint"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Cosmopolitan",
+    "method": "Voeg alle ingrediënten toe aan een cocktailshaker gevuld met ijs. Goed schudden en in een groot cocktailglas zeven.",
+    "garnish": "Garneer met een citroendraaije.",
+    "ingredients": [
+      {
+        "direction": "40 ml Wodka Citroen",
+        "quantity": "40",
+        "unit": "ml",
+        "ingredient": "Wodka Citroen"
+      },
+      {
+        "direction": "15 ml Cointreau",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Cointreau"
+      },
+      {
+        "direction": "15 ml vers limoensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      },
+      {
+        "direction": "30 ml Cranberrysap",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Cranberrysap"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Cuba Libre",
+    "method": "Doe alle ingrediënten in een longdrinkglas gevuld met ijs.",
+    "garnish": "Garneer met limoenpartje.",
+    "ingredients": [
+      {
+        "direction": "50 ml Witte Rum",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Witte Rum"
+      },
+      {
+        "direction": "120 ml Coca-Cola",
+        "quantity": "120",
+        "unit": "ml",
+        "ingredient": "Coca-Cola"
+      },
+      {
+        "direction": "10 ml vers limoensap",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "French 75",
+    "method": "Giet alle ingrediënten, behalve champagne, in een shaker. Goed schudden en zeven in een champagnefluit. Vul aan met champagne. Roer voorzichtig.",
+    "ingredients": [
+      {
+        "direction": "30ml Jenever",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "15 ml vers citroensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "15 ml suikersiroop",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Suikersiroop"
+      },
+      {
+        "direction": "60 ml Champagne",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Champagne"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "French Connection",
+    "method": "Giet alle ingrediënten rechtstreeks in een ouderwets glas gevuld met ijsblokjes. Roer voorzichtig.",
+    "ingredients": [
+      {
+        "direction": "35 ml Cognac",
+        "quantity": "35",
+        "unit": "ml",
+        "ingredient": "Cognac"
+      },
+      {
+        "direction": "35 ml Amaretto",
+        "quantity": "35",
+        "unit": "ml",
+        "ingredient": "Amaretto"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Golden Dream",
+    "method": "Giet alle ingrediënten in een shaker gevuld met ijs. Schud stevig gedurende enkele seconden. Giet in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "20 ml Galliano",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Galliano"
+      },
+      {
+        "direction": "20 ml Drievoudige Sec",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Drievoudige sec"
+      },
+      {
+        "direction": "20 ml vers sinaasappelsap",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Vers sinaasappelsap"
+      },
+      {
+        "direction": "10 ml verse room",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Verse Room"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Grasshopper",
+    "method": "Giet alle ingrediënten in een shaker gevuld met ijs. Schud stevig gedurende enkele seconden. Giet in een gekoeld cocktailglas.",
+    "garnish": "N.v.t., optioneel muntblad",
+    "ingredients": [
+      {
+        "direction": "20 ml Crème de Cacao (Wit)",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Crème de Cacao",
+        "note": "Wit"
+      },
+      {
+        "direction": "20 ml Crème de Menthe (Groen)",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Crème de Menthe",
+        "note": "Groente"
+      },
+      {
+        "direction": "20 ml verse room",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Verse Room"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Hemingway Special",
+    "method": "Giet alle ingrediënten in een shaker met ijs. Goed schudden en in een groot cocktailglas zeven.",
+    "ingredients": [
+      {
+        "direction": "60 ml Rum",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Rum"
+      },
+      {
+        "direction": "40 ml grapefruitsap",
+        "quantity": "40",
+        "unit": "ml",
+        "ingredient": "Grapefruitsap"
+      },
+      {
+        "direction": "15 ml Maraschino Luxardo",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Maraschino Luxardo"
+      },
+      {
+        "direction": "15 ml verse limoen",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Verse limoen"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Horse's Neck",
+    "method": "Giet cognac en ginger ale rechtstreeks in een longdrinkglas met ijsblokjes. Roer voorzichtig. Voeg indien gewenst een scheutje Angostura Bitter toe.",
+    "garnish": "Garneer met een schil van een citroenspiraal.",
+    "ingredients": [
+      {
+        "direction": "40 ml Cognac",
+        "quantity": "40",
+        "unit": "ml",
+        "ingredient": "Cognac"
+      },
+      {
+        "direction": "120 ml gemberbier",
+        "quantity": "120",
+        "unit": "ml",
+        "ingredient": "Gemberbier"
+      },
+      {
+        "direction": "Scheutje Angostura Bitters (optioneel)",
+        "quantity": "1",
+        "unit": "streepje",
+        "ingredient": "Angostura-bitters",
+        "note": "optioneel"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Irish Coffee",
+    "method": "Warme zwarte koffie wordt in een voorverwarmd Irish Coffee-glas gegoten. Whiskey en minstens één theelepel suiker worden toegevoegd en geroerd tot het is opgelost. Verse dikke gekoelde room wordt voorzichtig over de achterkant van een lepel gegoten, die net boven het oppervlak van de koffie wordt gehouden. Het roomlaagje zal op de koffie drijven zonder te mengen. Gewone suiker kan worden vervangen door suikersiroop",
+    "ingredients": [
+      {
+        "direction": "50 ml Ierse whisky",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Ierse whisky"
+      },
+      {
+        "direction": "120 ml Hete koffie",
+        "quantity": "120",
+        "unit": "ml",
+        "ingredient": "Hete koffie"
+      },
+      {
+        "direction": "50 ml Verse room (gekoeld)",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Verse room",
+        "note": "Gekoeld"
+      },
+      {
+        "direction": "1 theelepel suiker",
+        "quantity": "1",
+        "unit": "theelepel",
+        "ingredient": "Suiker"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "KIR",
+    "method": "Giet Crème de Cassis in het glas en vul aan met witte wijn. Opmerking: KIR ROYAL - Gebruik champagne in plaats van witte wijn",
+    "ingredients": [
+      {
+        "direction": "90 ml Droge witte wijn",
+        "quantity": "90",
+        "unit": "ml",
+        "ingredient": "Droge witte wijn"
+      },
+      {
+        "direction": "10 ml Crème de Cassis",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Crème de Cassis"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Long Island Ice Tea",
+    "method": "Voeg alle ingrediënten toe aan een longdrinkglas gevuld met ijs. Roer voorzichtig.",
+    "garnish": "Citroenschijfje (optioneel)",
+    "ingredients": [
+      {
+        "direction": "15 ml wodka",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Wodka"
+      },
+      {
+        "direction": "15 ml Tequila",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Tequila"
+      },
+      {
+        "direction": "15 ml Witte rum",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Witte rum"
+      },
+      {
+        "direction": "15 ml Jenever",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "15 ml Cointreau",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Cointreau"
+      },
+      {
+        "direction": "30 ml Citroensap",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Citroensap"
+      },
+      {
+        "direction": "20 ml Eenvoudige siroop",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Simpele siroop"
+      },
+      {
+        "direction": "Top met Cola",
+        "quantity": "1",
+        "unit": "bijvullen",
+        "ingredient": "Cola"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Mai-Tai",
+    "method": "Doe alle ingrediënten in een shaker met ijs. Schud en giet het in een dubbel rotsglas of een longdrinkglas.  De door Trader Vic gebruikte rum met melasse uit Martinique was geen Agricole-rum, maar een soort “rummy” uit melasse.",
+    "garnish": "Garneer met ananasspeer, muntblaadjes en limoenschil.",
+    "ingredients": [
+      {
+        "direction": "30 ml Amber Jamaicaanse Rum",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Amber Jamaicaanse Rum"
+      },
+      {
+        "direction": "30 ml Martinique Melasse Rhum",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Martinique Melasse Rhum"
+      },
+      {
+        "direction": "15 ml Oranje Curaçao",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Oranje Curaçao"
+      },
+      {
+        "direction": "15 ml Orgeadesiroop (amandel)",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Orgeadesiroop",
+        "note": "Amandel"
+      },
+      {
+        "direction": "30 ml vers limoensap",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      },
+      {
+        "direction": "7,5 ml Eenvoudige siroop",
+        "quantity": "7.5",
+        "unit": "ml",
+        "ingredient": "Simpele siroop"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Margarita",
+    "method": "Doe alle ingrediënten in een shaker met ijs. Schud en zeef in een gekoeld cocktailglas",
+    "garnish": "Halve zoutrand (optioneel)",
+    "ingredients": [
+      {
+        "direction": "50 ml Tequila 100% Agave",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Tequila 100% Agave"
+      },
+      {
+        "direction": "20 ml Drievoudige Sec",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Drievoudige sec"
+      },
+      {
+        "direction": "15 ml Vers geperst limoensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers geperst limoensap"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Mimosa",
+    "method": "Giet het sinaasappelsap in een fluitglas en giet voorzichtig de mousserende wijn. Roer voorzichtig. Opmerking: ook bekend als Buck's Fizz.",
+    "garnish": "Garneer met een oranje twist (optioneel).",
+    "ingredients": [
+      {
+        "direction": "75 ml Vers sinaasappelsap",
+        "quantity": "75",
+        "unit": "ml",
+        "ingredient": "Vers sinaasappelsap"
+      },
+      {
+        "direction": "75 ml Prosecco",
+        "quantity": "75",
+        "unit": "ml",
+        "ingredient": "Prosecco"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Mint Julep",
+    "method": "Meng de munt in de Julep roestvrijstalen beker voorzichtig met suiker en water. Vul het glas met gebarsten ijs, voeg de Bourbon toe en roer goed tot het kopje bevriest.",
+    "garnish": "Garneer met een takje munt.",
+    "ingredients": [
+      {
+        "direction": "60 ml Bourbonwhisky",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Bourbon-whisky"
+      },
+      {
+        "direction": "4 verse munttakjes",
+        "quantity": "4",
+        "unit": "deel",
+        "ingredient": "verse munttakjes"
+      },
+      {
+        "direction": "1 theelepel poedersuiker",
+        "quantity": "1",
+        "unit": "theelepel",
+        "ingredient": "Poedersuiker"
+      },
+      {
+        "direction": "2 theelepel water",
+        "quantity": "2",
+        "unit": "theelepel",
+        "ingredient": "Water"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Mojito",
+    "method": "Meng muntveren met suiker en limoensap. Voeg een scheutje sodawater toe en vul het glas met ijs. Giet de rum erbij en bedek met sodawater. Licht roeren om alle ingrediënten te betrekken.",
+    "garnish": "Garneer met takjes munt en een schijfje limoen.",
+    "ingredients": [
+      {
+        "direction": "45 ml Witte Cubaanse Ron",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Witte Cubaanse Ron"
+      },
+      {
+        "direction": "20 ml vers limoensap",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      },
+      {
+        "direction": "6 stuks munttakjes",
+        "quantity": "6",
+        "unit": "deel",
+        "ingredient": "Munt takjes"
+      },
+      {
+        "direction": "2 theelepels witte rietsuiker",
+        "quantity": "2",
+        "unit": "theelepel",
+        "ingredient": "Witte Rietsuiker"
+      },
+      {
+        "direction": "Sodawater",
+        "quantity": "1",
+        "unit": "bijvullen",
+        "ingredient": "Sodawater"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Moscow Mule",
+    "method": "Combineer de wodka en het gemberbier in een Mule Cup of een rockglas. Voeg limoensap toe en roer voorzichtig zodat alle ingrediënten betrokken zijn.",
+    "garnish": "Garneer met een schijfje limoen",
+    "ingredients": [
+      {
+        "direction": "45 ml Smirnoff-wodka",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Smirnoff-wodka"
+      },
+      {
+        "direction": "120 ml Gemberbier",
+        "quantity": "120",
+        "unit": "ml",
+        "ingredient": "Gemberbier"
+      },
+      {
+        "direction": "10 ml Vers limoensap",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Pina Colada",
+    "method": "Meng alle ingrediënten met ijs in een elektrische blender, giet het in een groot glas en serveer met rietjes.  Let op: Historisch gezien werden naar smaak een paar druppels vers limoensap toegevoegd. In plaats van sap kunnen 4 plakjes verse ananas worden gebruikt",
+    "garnish": "Garneer met een schijfje ananas met een cocktailkers.",
+    "ingredients": [
+      {
+        "direction": "50 ml Witte Rum",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Witte Rum"
+      },
+      {
+        "direction": "30 ml Kokoscrème",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Kokosroom"
+      },
+      {
+        "direction": "50 ml vers ananassap",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Vers ananassap"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Pisco Sour",
+    "method": "Doe alle ingrediënten in een shaker met ijs. Schud en zeef in een gekoeld bekerglas.",
+    "garnish": "Enkele scheutjes Amargobitter er bovenop als aromatische garnering.",
+    "ingredients": [
+      {
+        "direction": "60 ml Pisco",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Pisco"
+      },
+      {
+        "direction": "30 ml vers citroensap",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "20 ml eenvoudige siroop",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Simpele siroop"
+      },
+      {
+        "direction": "1 Rauw Eiwit",
+        "quantity": "1",
+        "unit": "deel",
+        "ingredient": "Rauw Eiwit"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Sea Breeze",
+    "method": "Doe alle ingrediënten in een longdrinkglas gevuld met ijs.",
+    "garnish": "Garneer met sinaasappelschil en kers",
+    "ingredients": [
+      {
+        "direction": "40 ml wodka",
+        "quantity": "40",
+        "unit": "ml",
+        "ingredient": "Wodka"
+      },
+      {
+        "direction": "120 ml Cranberrysap",
+        "quantity": "120",
+        "unit": "ml",
+        "ingredient": "Cranberrysap"
+      },
+      {
+        "direction": "30 ml grapefruitsap",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Grapefruitsap"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Sex on the Beach",
+    "method": "Doe alle ingrediënten in een longdrinkglas gevuld met ijs.",
+    "garnish": "Garneer met een half schijfje sinaasappel.",
+    "ingredients": [
+      {
+        "direction": "40 ml wodka",
+        "quantity": "40",
+        "unit": "ml",
+        "ingredient": "Wodka"
+      },
+      {
+        "direction": "20 ml Perzikschnaps",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Perzikschnaps"
+      },
+      {
+        "direction": "40 ml vers sinaasappelsap",
+        "quantity": "40",
+        "unit": "ml",
+        "ingredient": "Vers sinaasappelsap"
+      },
+      {
+        "direction": "40 ml Cranberrysap",
+        "quantity": "40",
+        "unit": "ml",
+        "ingredient": "Cranberrysap"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Singapore Sling",
+    "method": "Giet alle ingrediënten in een cocktailshaker gevuld met ijsblokjes. Goed schudden. Zeef in orkaanglas.",
+    "garnish": "Garneer met ananas en marasquinkers",
+    "ingredients": [
+      {
+        "direction": "30ml Jenever",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "15 ml Kersenlikeur",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Kersen likeur"
+      },
+      {
+        "direction": "7,5 ml Cointreau",
+        "quantity": "7.5",
+        "unit": "ml",
+        "ingredient": "Cointreau"
+      },
+      {
+        "direction": "7,5 ml DOM Bénédictine",
+        "quantity": "7.5",
+        "unit": "ml",
+        "ingredient": "DOM Bénédictine"
+      },
+      {
+        "direction": "120 ml vers ananassap",
+        "quantity": "120",
+        "unit": "ml",
+        "ingredient": "Vers ananassap"
+      },
+      {
+        "direction": "15 ml vers limoensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      },
+      {
+        "direction": "10 ml Grenadinesiroop",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Grenadinesiroop"
+      },
+      {
+        "direction": "Een scheutje Angostura bitters",
+        "quantity": "1",
+        "unit": "streepje",
+        "ingredient": "Angostura-bittertjes"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Tequila Sunrise",
+    "method": "Giet tequila en sinaasappelsap rechtstreeks in een longdrinkglas gevuld met ijsblokjes. Voeg de grenadinesiroop toe om een ​​chromatisch effect te creëren (zonsopgang), niet roeren.",
+    "garnish": "Garneer met een half schijfje sinaasappel of een sinaasappelschil",
+    "ingredients": [
+      {
+        "direction": "45 ml Tequila",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Tequila"
+      },
+      {
+        "direction": "90 ml vers sinaasappelsap",
+        "quantity": "90",
+        "unit": "ml",
+        "ingredient": "Vers sinaasappelsap"
+      },
+      {
+        "direction": "15 ml Grenadinesiroop",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Grenadinesiroop"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Vesper",
+    "method": "Giet alle ingrediënten in een cocktailshaker gevuld met ijsblokjes. Schud en zeef in een gekoeld cocktailglas.",
+    "garnish": "Citroenschil",
+    "ingredients": [
+      {
+        "direction": "45 ml Jenever",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "15 ml wodka",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Wodka"
+      },
+      {
+        "direction": "7,5 ml Lillet Blanc",
+        "quantity": "7.5",
+        "unit": "ml",
+        "ingredient": "Lillet Blanc"
+      }
+    ]
+  },
+  {
+    "category": "Hedendaagse klassiekers",
+    "name": "Zombie",
+    "method": "Doe alle ingrediënten in een elektrische blender met 170 gram gebarsten ijs. Met pulsbodemmix gedurende enkele seconden. Serveer in een hoog tumblerglas.  Let op: Donn's Mix: 2 delen verse gele grapefruit en 1 deel kaneelsiroop",
+    "garnish": "Garneer met muntblaadjes.",
+    "ingredients": [
+      {
+        "direction": "45 ml Jamaicaanse donkere rum",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Jamaicaanse donkere rum"
+      },
+      {
+        "direction": "45 ml Gouden Puerto Ricaanse rum",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Gouden Puerto Ricaanse rum"
+      },
+      {
+        "direction": "30 ml Demerara-rum",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Demerara Rum"
+      },
+      {
+        "direction": "20 ml Vers limoensap",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      },
+      {
+        "direction": "15 ml Falernum",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Falernum"
+      },
+      {
+        "direction": "15 ml Donn's Mix",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Donns Mix"
+      },
+      {
+        "direction": "1 theelepel grenadinesiroop",
+        "quantity": "1",
+        "unit": "theelepel",
+        "ingredient": "Grenadinesiroop"
+      },
+      {
+        "direction": "1 scheutje Angostura-bittertjes",
+        "quantity": "1",
+        "unit": "streepje",
+        "ingredient": "Angostura-bittertjes"
+      },
+      {
+        "direction": "6 druppels Pernod",
+        "quantity": "6",
+        "unit": "druppels",
+        "ingredient": "Pernod"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Barracuda",
+    "method": "Giet alle ingrediënten in de cocktailshaker, behalve de Prosecco, schud goed met ijs, zeef in een gekoeld longdrinkglas gevuld met ijs en vul aan met Prosecco.",
+    "garnish": "Ananas en kers, optioneel munttakje voor extra aroma.",
+    "ingredients": [
+      {
+        "direction": "45 ml Gouden Rum",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Gouden Rum"
+      },
+      {
+        "direction": "15 ml Galliano",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Galliano"
+      },
+      {
+        "direction": "60 ml vers ananassap",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Vers ananassap"
+      },
+      {
+        "direction": "1 scheutje vers limoensap",
+        "quantity": "1",
+        "unit": "streepje",
+        "ingredient": "Vers limoensap"
+      },
+      {
+        "direction": "Vul aan met Prosecco",
+        "quantity": "1",
+        "unit": "bijvullen",
+        "ingredient": "Prosecco"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Bee's Knees",
+    "method": "Roer de honing met het citroen- en sinaasappelsap tot het oplost, voeg de gin toe en schud met ijs. Giet in een gekoeld cocktailglas.",
+    "garnish": "Garneer eventueel met een citroen- of sinaasappelschil.",
+    "ingredients": [
+      {
+        "direction": "52,5 ml Droge Gin",
+        "quantity": "52,5",
+        "unit": "ml",
+        "ingredient": "Droge jenever"
+      },
+      {
+        "direction": "2 theelepels honingsiroop",
+        "quantity": "2",
+        "unit": "theelepel",
+        "ingredient": "Honing Siroop"
+      },
+      {
+        "direction": "22,5 ml vers citroensap",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "22,5 ml Vers sinaasappelsap",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Vers sinaasappelsap"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Bramble",
+    "method": "Giet alle ingrediënten in een cocktailshaker, behalve de Crème de Mûre, schud goed met ijs, zeef in een gekoeld ouderwets glas gevuld met gemalen ijs en giet vervolgens de bramenlikeur (Crème de Mûre) over de drank, in een cirkelvormige beweging .",
+    "garnish": "Garneer eventueel met een schijfje citroen en bramen.",
+    "ingredients": [
+      {
+        "direction": "50 ml Jenever",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "25 ml vers citroensap",
+        "quantity": "25",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "12,5 ml suikersiroop",
+        "quantity": "12.5",
+        "unit": "ml",
+        "ingredient": "Suikersiroop"
+      },
+      {
+        "direction": "15 ml Crème de Mûre",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Crème de Mûre"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Canchanchara",
+    "method": "Meng honing met water en limoensap en verdeel het mengsel over de bodem en zijkanten van het glas. Voeg gebarsten ijs toe en vervolgens de rum. Eindig door energetisch van onder naar boven te roeren.",
+    "garnish": "Limoen wig.",
+    "ingredients": [
+      {
+        "direction": "60 ml Cubaanse Aguardiente",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Cubaanse Aguardiente"
+      },
+      {
+        "direction": "15 ml vers limoensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      },
+      {
+        "direction": "15 ml rauwe honing",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Rauwe honing"
+      },
+      {
+        "direction": "50 ml water",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Water"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Dark ‘n' stormy",
+    "method": "Giet het gemberbier in een longdrinkglas gevuld met ijs en laat de Rum erover drijven.",
+    "garnish": "Garneer met een partje of schijfje limoen.",
+    "ingredients": [
+      {
+        "direction": "60 ml Goslings-rum",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Goslings Rum"
+      },
+      {
+        "direction": "100 ml Gemberbier",
+        "quantity": "100",
+        "unit": "ml",
+        "ingredient": "Gemberbier"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Espresso Martini",
+    "method": "Giet alle ingrediënten in de cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "50 ml wodka",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Wodka"
+      },
+      {
+        "direction": "30 ml Kahlúa",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Kahlúa"
+      },
+      {
+        "direction": "10 ml suikersiroop",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Suikersiroop"
+      },
+      {
+        "direction": "1 sterke espresso",
+        "quantity": "1",
+        "unit": "schot",
+        "ingredient": "sterke espresso"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Fernandito",
+    "method": "Schenk de Fernet Branca in een dubbel ouderwets glas met ijs en vul het glas aan met Cola. Roer voorzichtig.",
+    "ingredients": [
+      {
+        "direction": "50 ml Fernet Branca",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Fernet Branca"
+      },
+      {
+        "direction": "Vul aan met Cola",
+        "quantity": "1",
+        "unit": "opvullen",
+        "ingredient": "Cola"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "French Martini",
+    "method": "Giet alle ingrediënten in de cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "garnish": "Knijp de olie uit de citroenschil op het drankje.",
+    "ingredients": [
+      {
+        "direction": "45 ml Wodka",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Wodka"
+      },
+      {
+        "direction": "15 ml Frambozenlikeur",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Frambozenlikeur"
+      },
+      {
+        "direction": "15 ml vers ananassap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers ananassap"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Illegal",
+    "method": "Giet alle ingrediënten in de shaker. Schud krachtig met ijs. Zeef het in een gekoeld cocktailglas, of ‘on the rocks’ in een traditionele mok van klei of terracotta.",
+    "ingredients": [
+      {
+        "direction": "30 ml Espadin Mezcal",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Espadin Mezcal"
+      },
+      {
+        "direction": "15 ml Jamaica Overproof Witte Rum",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Jamaica Overproof witte rum"
+      },
+      {
+        "direction": "15 ml Falernum",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Falernum"
+      },
+      {
+        "direction": "1 Barlepel Maraschino Luxardo",
+        "quantity": "1",
+        "unit": "bar lepel",
+        "ingredient": "Maraschino Luxardo"
+      },
+      {
+        "direction": "22,5 ml Vers limoensap",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      },
+      {
+        "direction": "15 ml eenvoudige siroop",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Simpele siroop"
+      },
+      {
+        "direction": "Enkele druppels eiwit (optioneel)",
+        "quantity": "weinig",
+        "unit": "druppels",
+        "ingredient": "Eiwit",
+        "note": "Optioneel"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Lemon drop Martini",
+    "method": "Giet alle ingrediënten in de cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "garnish": "Garneer met een suikerrand rond het glas.",
+    "ingredients": [
+      {
+        "direction": "30 ml Wodka Citroen",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Wodka Citroen"
+      },
+      {
+        "direction": "20 ml Drievoudige Sec",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Drievoudige sec"
+      },
+      {
+        "direction": "15 ml vers citroensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Naked and Famous",
+    "method": "Giet alle ingrediënten in de cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "22,5 ml Mezcal",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Mezcal"
+      },
+      {
+        "direction": "22,5 ml Gele Chartreuse",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Gele chartreuse"
+      },
+      {
+        "direction": "22,5 ml Aperol",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Aperol"
+      },
+      {
+        "direction": "22,5 ml Vers limoensap",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "New York Sour",
+    "method": "Giet alle ingrediënten in de shaker. Schud krachtig met ijs. Zeef het in een gekoeld rotsglas gevuld met ijs. Laat de wijn er bovenop drijven.",
+    "garnish": "Garneer met citroen- of sinaasappelschil met kers.",
+    "ingredients": [
+      {
+        "direction": "60 ml Roggewhisky of Bourbon",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Roggewhisky of Bourbon"
+      },
+      {
+        "direction": "22,5 ml Eenvoudige siroop",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Simpele siroop"
+      },
+      {
+        "direction": "30 ml Vers citroensap",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "Enkele druppels eiwit",
+        "quantity": "weinig",
+        "unit": "druppels",
+        "ingredient": "Eiwit"
+      },
+      {
+        "direction": "15 ml Rode wijn (Shiraz of Malbech)",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Rode wijn",
+        "note": "Shiraz of Malbech"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Old Cuban",
+    "method": "Giet alle ingrediënten in de cocktailshaker, behalve de wijn, schud goed met ijs en zeef in een gekoeld, elegant cocktailglas. Vul aan met de mousserende wijn.",
+    "garnish": "Garneer met muntveren.",
+    "ingredients": [
+      {
+        "direction": "6/8 stuks Muntblaadjes",
+        "quantity": "6-8",
+        "unit": "deel",
+        "ingredient": "Muntblaadjes"
+      },
+      {
+        "direction": "45 ml Oude Rum",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Oude rum"
+      },
+      {
+        "direction": "22,5 ml Vers limoensap",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      },
+      {
+        "direction": "30 ml eenvoudige siroop",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Simpele siroop"
+      },
+      {
+        "direction": "2 streepjes Angostura Bitters",
+        "quantity": "2",
+        "unit": "streepje",
+        "ingredient": "Angostura-bitters"
+      },
+      {
+        "direction": "60 ml Brut Champagne of Prosecco",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Brutchampagne of Prosecco"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Paloma",
+    "method": "Schenk de tequila in een longdrinkglas en pers het limoensap uit. Voeg ijs en zout toe, vul roze grapefruitsoda bij. Roer voorzichtig.",
+    "garnish": "Garneer met een schijfje limoen.",
+    "ingredients": [
+      {
+        "direction": "50 ml 100% Agave Tequila",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "100% Agave-Tequila"
+      },
+      {
+        "direction": "5 ml Verse limoen",
+        "quantity": "5",
+        "unit": "ml",
+        "ingredient": "Verse limoen"
+      },
+      {
+        "direction": "Een snufje zout",
+        "quantity": "1",
+        "unit": "kneep",
+        "ingredient": "Zout"
+      },
+      {
+        "direction": "100 ml Roze Grapefruit Frisdrank",
+        "quantity": "100",
+        "unit": "ml",
+        "ingredient": "Roze grapefruitfrisdrank"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Paper Plane",
+    "method": "Giet alle ingrediënten in de cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "30 ml Bourbonwhisky",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Bourbon-whisky"
+      },
+      {
+        "direction": "30 ml Amaro Nonino",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Amaro Nonino"
+      },
+      {
+        "direction": "30 ml Aperol",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Aperol"
+      },
+      {
+        "direction": "30 ml vers citroensap",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Penicillin",
+    "method": "Pureer de verse gember in een shaker en voeg de overige ingrediënten toe, behalve de Islay single malt-whisky. Vul de shaker met ijs en schud. Dubbele zeef in een gekoeld ouderwets glas met ijs. Laat de single malt whisky er bovenop drijven.",
+    "garnish": "Garneer met gekonfijte gember.",
+    "ingredients": [
+      {
+        "direction": "60 ml gemengde Schotse whisky",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Gemengde Schotse whisky"
+      },
+      {
+        "direction": "7,5 ml Lagavulin 16 y Whisky",
+        "quantity": "7.5",
+        "unit": "ml",
+        "ingredient": "Lagavulin 16 jaar Whisky"
+      },
+      {
+        "direction": "22,5 ml vers citroensap",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "22,5 ml Honingsiroop",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Honing Siroop"
+      },
+      {
+        "direction": "2-3 kwart gesneden verse gember",
+        "quantity": "2-3",
+        "unit": "deel",
+        "ingredient": "kwartgrootte gesneden verse gember"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Russian Spring Punch",
+    "method": "Giet alle ingrediënten in een cocktailshaker, behalve de mousserende wijn, schud goed met ijs, zeef in een gekoeld hoog tumblerglas gevuld met ijs en vul aan met mousserende wijn.",
+    "garnish": "Garneer met bramen en eventueel een schijfje citroen.",
+    "ingredients": [
+      {
+        "direction": "25 ml wodka",
+        "quantity": "25",
+        "unit": "ml",
+        "ingredient": "Wodka"
+      },
+      {
+        "direction": "25 ml vers citroensap",
+        "quantity": "25",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "15 ml Crème de Cassis",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Crème de Cassis"
+      },
+      {
+        "direction": "10 ml Suikersiroop",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Suikersiroop"
+      },
+      {
+        "direction": "Mousserende wijn bijvullen",
+        "quantity": "1",
+        "unit": "bijvullen",
+        "ingredient": "Mousserende wijn"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Southside",
+    "method": "Giet alle ingrediënten in een cocktailshaker, schud goed met ijs en zeef het dubbel in een gekoeld cocktailglas. Opmerking: Als u eiwit gebruikt, schud dan krachtig.",
+    "garnish": "Garneer met muntveren.",
+    "ingredients": [
+      {
+        "direction": "60 ml London Dry Gin",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Droge Gin uit Londen"
+      },
+      {
+        "direction": "30 ml vers citroensap",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "15 ml eenvoudige siroop",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Simpele siroop"
+      },
+      {
+        "direction": "5/6 Muntblaadjes",
+        "quantity": "5-6",
+        "unit": "deel",
+        "ingredient": "Muntblaadjes"
+      },
+      {
+        "direction": "Enkele druppels eiwit (optioneel)",
+        "quantity": "weinig",
+        "unit": "druppels",
+        "ingredient": "Eiwit",
+        "note": "Optioneel"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Spicy Fifty",
+    "method": "Giet alle ingrediënten in een cocktailshaker, schud goed met ijs en zeef het dubbel in een gekoeld cocktailglas.",
+    "garnish": "Garneer met een rode chilipeper",
+    "ingredients": [
+      {
+        "direction": "50 ml Wodka Vanille",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Wodka Vanille"
+      },
+      {
+        "direction": "15 ml Vlierbloesemsiroop",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vlierbloesem hartelijk"
+      },
+      {
+        "direction": "15 ml vers limoensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      },
+      {
+        "direction": "10 ml Monin-honingsiroop",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Monin Honingsiroop"
+      },
+      {
+        "direction": "2 dunne plakjes rode chilipeper",
+        "quantity": "2",
+        "unit": "deel",
+        "ingredient": "dunne plakjes rode chilipeper"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Spritz",
+    "method": "Doe alle ingrediënten in een wijnglas gevuld met ijs. Roer voorzichtig. OPMERKING: Er zijn andere versies van de Spritz die Campari, Cynar of Select gebruiken in plaats van Aperol.",
+    "garnish": "Garneer met een schijfje sinaasappel.",
+    "ingredients": [
+      {
+        "direction": "90 ml Prosecco",
+        "quantity": "90",
+        "unit": "ml",
+        "ingredient": "Prosecco"
+      },
+      {
+        "direction": "60 ml Aperol",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Aperol"
+      },
+      {
+        "direction": "Scheutje frisdrankwater",
+        "quantity": "1",
+        "unit": "plons",
+        "ingredient": "Sodawater"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Suffering Bastard",
+    "method": "Giet alle ingrediënten in een cocktailshaker behalve het gemberbier, schud goed met ijs, schenk ongezeefd in een Collins-glas of in de originele S. Bastard-mok en vul aan met gemberbier.",
+    "garnish": "Garneer met muntblaadjes en eventueel ook een schijfje sinaasappel.",
+    "ingredients": [
+      {
+        "direction": "30 ml cognac of cognac",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Cognac of Brandewijn"
+      },
+      {
+        "direction": "30ml Jenever",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "15 ml vers limoensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      },
+      {
+        "direction": "2 streepjes Angostura Bitters",
+        "quantity": "2",
+        "unit": "streepje",
+        "ingredient": "Angostura-bitters"
+      },
+      {
+        "direction": "Gemberbier bijvullen",
+        "quantity": "1",
+        "unit": "bijvullen",
+        "ingredient": "Gember bier"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Tipperary",
+    "method": "Giet alle ingrediënten in het mengglas met ijsblokjes. Roer goed. Zeef in een gekoeld martini-cocktailglas.",
+    "garnish": "Garneer met een schijfje sinaasappel.",
+    "ingredients": [
+      {
+        "direction": "50 ml Ierse whisky",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Ierse whisky"
+      },
+      {
+        "direction": "25 ml Zoete Rode Vermout",
+        "quantity": "25",
+        "unit": "ml",
+        "ingredient": "Zoete Rode Vermout"
+      },
+      {
+        "direction": "15 ml Groene Chartreuse",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Groene Chartreuse"
+      },
+      {
+        "direction": "2 streepjes Angostura Bitters",
+        "quantity": "2",
+        "unit": "streepje",
+        "ingredient": "Angostura-bitters"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Tommy's Margarita",
+    "method": "Giet alle ingrediënten in een cocktailshaker, schud goed met ijs en zeef in een gekoeld rotsglas gevuld met ijs.",
+    "garnish": "Garneer met een schijfje limoen.",
+    "ingredients": [
+      {
+        "direction": "60 ml Tequila Agave 100% Reposado",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Tequila Agave 100% Reposado"
+      },
+      {
+        "direction": "30 ml vers limoensap (Perzisch)",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Vers limoensap",
+        "note": "Perzisch"
+      },
+      {
+        "direction": "30 ml Agavesiroop (1/2 water + 1/2 agavenectar)",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Agavesiroop",
+        "note": "1/2 water + 1/2 agavenectar"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Trinidad Sour",
+    "method": "Giet alle ingrediënten in een cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "45 ml Angostura-bitters",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Angostura-bitters"
+      },
+      {
+        "direction": "30 ml Orgeadesiroop",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Orgeadesiroop"
+      },
+      {
+        "direction": "22,5 ml vers citroensap",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "15 ml Roggewhisky",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Rogge Whisky"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "VE.N.TO",
+    "method": "Giet alle ingrediënten in de shaker. Schud krachtig met ijs. Zeef het in een gekoeld klein tumblerglas gevuld met ijs. Opmerkingen: Indien gewenst kan water vervangen worden door kamille-infusie in het honingmengsel.",
+    "garnish": "Garneer met citroenschil en witte druiven.",
+    "ingredients": [
+      {
+        "direction": "45 ml Witte gladde Grappa",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Witte gladde Grappa"
+      },
+      {
+        "direction": "22,5 ml Vers citroensap",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "15 ml Honingmix (vervang water door kamille)",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Honing mix",
+        "note": "vervang water door kamille"
+      },
+      {
+        "direction": "15 ml Kamillesiroop",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Kamille hartelijk"
+      },
+      {
+        "direction": "10 ml eiwit (optioneel)",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Eiwit",
+        "note": "Optioneel"
+      }
+    ]
+  },
+  {
+    "category": "Nieuwe tijdperk-drankjes",
+    "name": "Yellow Bird",
+    "method": "Giet alle ingrediënten in een cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "30 ml Witte rum",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Witte rum"
+      },
+      {
+        "direction": "15 ml Galliano",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Galliano"
+      },
+      {
+        "direction": "15ml Drievoudige Sec",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Drievoudige sec"
+      },
+      {
+        "direction": "15 ml vers limoensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Alexander",
+    "method": "Giet alle ingrediënten in een cocktailshaker gevuld met ijsblokjes. Schud en zeef in een gekoeld cocktailglas.",
+    "garnish": "Strooi er vers gemalen nootmuskaat overheen.",
+    "ingredients": [
+      {
+        "direction": "30 ml Cognac",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Cognac"
+      },
+      {
+        "direction": "30 ml Crème de Cacao (Bruin)",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Crème de Cacao",
+        "note": "Bruin"
+      },
+      {
+        "direction": "30 ml verse room",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Verse Room"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Americano",
+    "method": "Meng de ingrediënten direct in een ouderwets glas gevuld met ijsblokjes. Voeg een scheutje sodawater toe. Roer voorzichtig.",
+    "garnish": "Garneer met een half schijfje sinaasappel en een citroenschil.",
+    "ingredients": [
+      {
+        "direction": "30 ml Bittere Campari",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Bittere Campari"
+      },
+      {
+        "direction": "30 ml Zoete Rode Vermout",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Zoete Rode Vermout"
+      },
+      {
+        "direction": "Een scheutje frisdrankwater",
+        "quantity": "1",
+        "unit": "plons",
+        "ingredient": "Sodawater"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Angel Face",
+    "method": "Giet alle ingrediënten in een cocktailshaker gevuld met ijsblokjes. Schud en zeef in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "30ml Jenever",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "30 ml Abrikozenbrandewijn",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Abrikozenbrandewijn"
+      },
+      {
+        "direction": "30 ml Calvados",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Calvados"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Aviation",
+    "method": "Voeg alle ingrediënten toe aan een cocktailshaker. Schud met gebarsten ijs en zeef in een gekoeld cocktailglas.",
+    "garnish": "Optionele Maraschino-kers.",
+    "ingredients": [
+      {
+        "direction": "45 ml Jenever",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "15 ml Maraschino Luxardo",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Maraschino Luxardo"
+      },
+      {
+        "direction": "15 ml vers citroensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "1 barlepel Crème de Violette",
+        "quantity": "1",
+        "unit": "bar lepel",
+        "ingredient": "Crème de Violette"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Between the Sheets",
+    "method": "Voeg alle ingrediënten toe aan een cocktailshaker. Schud met ijs en zeef in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "30 ml Witte Rum",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Witte Rum"
+      },
+      {
+        "direction": "30 ml Cognac",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Cognac"
+      },
+      {
+        "direction": "30 ml Drievoudige Sec",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Drievoudige sec"
+      },
+      {
+        "direction": "20 ml vers citroensap",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Boulevardier",
+    "method": "Giet alle ingrediënten in het mengglas met ijsblokjes. Roer goed. Giet in een gekoeld cocktailglas.",
+    "garnish": "Garneer met sinaasappelschil, eventueel een citroenschil.",
+    "ingredients": [
+      {
+        "direction": "45 ml Bourbon- of Roggewhisky",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Bourbon- of roggewhisky"
+      },
+      {
+        "direction": "30 ml Bittere Campari",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Bittere Campari"
+      },
+      {
+        "direction": "30 ml Zoete Rode Vermout",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Zoete Rode Vermout"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Brandy Crusta",
+    "method": "Meng alle ingrediënten met ijsblokjes in een mengglas en zeef het in een voorbereid, dun cocktailglas.",
+    "garnish": "Wrijf een schijfje sinaasappel (of citroen) rond de rand van het glas en doop het in de verpulverde witte suiker, zodat de suiker aan de rand van het glas blijft plakken. Plaats de sinaasappel-/citroenschil voorzichtig rond de binnenkant van het glas.",
+    "ingredients": [
+      {
+        "direction": "52,5 ml Brandewijn",
+        "quantity": "52,5",
+        "unit": "ml",
+        "ingredient": "Brandewijn"
+      },
+      {
+        "direction": "7,5 ml Maraschino Luxardo",
+        "quantity": "7.5",
+        "unit": "ml",
+        "ingredient": "Maraschino Luxardo"
+      },
+      {
+        "direction": "1 Barlepel Curacao",
+        "quantity": "1",
+        "unit": "bar lepel",
+        "ingredient": "Curacao"
+      },
+      {
+        "direction": "15 ml vers citroensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "1 barlepel Eenvoudige siroop",
+        "quantity": "1",
+        "unit": "bar lepel",
+        "ingredient": "Simpele siroop"
+      },
+      {
+        "direction": "2 streepjes aromatische bittertjes",
+        "quantity": "2",
+        "unit": "streepje",
+        "ingredient": "Aromatische bittertjes"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Casino",
+    "method": "Giet alle ingrediënten in de cocktailshaker, schud goed met ijs en zeef in een gekoeld rotsglas met ijs.",
+    "garnish": "Garneer met citroenschil en een marasquinkers.",
+    "ingredients": [
+      {
+        "direction": "40 ml Old Tom Gin",
+        "quantity": "40",
+        "unit": "ml",
+        "ingredient": "Oude Tom Gin"
+      },
+      {
+        "direction": "10 ml Maraschino Luxardo",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Maraschino Luxardo"
+      },
+      {
+        "direction": "10 ml vers citroensap",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "2 streepjes oranje bittertjes",
+        "quantity": "2",
+        "unit": "streepje",
+        "ingredient": "Oranje bittertjes"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Clover Club",
+    "method": "Giet alle ingrediënten in de cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "garnish": "Verse frambozen.",
+    "ingredients": [
+      {
+        "direction": "45 ml Jenever",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "15 ml Frambozensiroop",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Frambozensiroop"
+      },
+      {
+        "direction": "15 ml vers citroensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "Enkele druppels eiwit",
+        "quantity": "weinig",
+        "unit": "druppels",
+        "ingredient": "Eiwit"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Daiquiri",
+    "method": "Voeg alle ingrediënten toe in een cocktailshaker. Roer goed om de suiker op te lossen. Voeg ijs toe en schud. Giet in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "60 ml Witte Cubaanse Ron",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Witte Cubaanse Ron"
+      },
+      {
+        "direction": "20 ml vers limoensap",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      },
+      {
+        "direction": "2 barlepels superfijne suiker",
+        "quantity": "2",
+        "unit": "bar lepel",
+        "ingredient": "Superfijne suiker"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Dry Martini",
+    "method": "Giet alle ingrediënten in het mengglas met ijsblokjes. Roer goed. Zeef in een gekoeld martini-cocktailglas.",
+    "garnish": "Knijp olie uit de citroenschil op het drankje of garneer desgewenst met groene olijven.",
+    "ingredients": [
+      {
+        "direction": "60 ml Jenever",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "10 ml droge vermout",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Droge vermout"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Gin Fizz",
+    "method": "Schud alle ingrediënten met ijs behalve sodawater. Giet het mengsel in een dun, hoog Tumbler-glas en schenk er een scheutje frisdrankwater overheen.  LET OP: Serveer zonder ijs.",
+    "garnish": "Garneer met een schijfje citroen, eventueel met citroenschil.",
+    "ingredients": [
+      {
+        "direction": "45 ml Jenever",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "30 ml vers citroensap",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "10 ml eenvoudige siroop",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Simpele siroop"
+      },
+      {
+        "direction": "Scheutje frisdrankwater",
+        "quantity": "1",
+        "unit": "plons",
+        "ingredient": "Sodawater"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Hanky Panky",
+    "method": "Giet alle ingrediënten in het mengglas met ijsblokjes. Roer goed. Giet in een gekoeld cocktailglas.",
+    "garnish": "Sinaasappelschil.",
+    "ingredients": [
+      {
+        "direction": "45 ml London Dry Gin",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Droge Gin uit Londen"
+      },
+      {
+        "direction": "45 ml Zoete Rode Vermout",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Zoete Rode Vermout"
+      },
+      {
+        "direction": "7,5 ml Fernet Branca",
+        "quantity": "7.5",
+        "unit": "ml",
+        "ingredient": "Fernet Branca"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "John Collins",
+    "method": "Giet alle ingrediënten rechtstreeks in een longdrink gevuld met ijs. Roer voorzichtig. OPMERKING: Gebruik ‘Old Tom' Gin voor Tom Collins.",
+    "garnish": "Garneer met een schijfje citroen en marasquinkers.",
+    "ingredients": [
+      {
+        "direction": "45 ml Jenever",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "30 ml vers citroensap",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "15 ml eenvoudige siroop",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Simpele siroop"
+      },
+      {
+        "direction": "60 ml frisdrankwater",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Sodawater"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Last word",
+    "method": "Voeg alle ingrediënten toe aan een cocktailshaker. Schud met ijs en zeef in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "22,5 ml Jenever",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "22,5 ml Groene Chartreuse",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Groene Chartreuse"
+      },
+      {
+        "direction": "22,5 ml Maraschino Luxardo",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Maraschino Luxardo"
+      },
+      {
+        "direction": "22,5 ml Vers limoensap",
+        "quantity": "22.5",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Manhattan",
+    "method": "Giet alle ingrediënten in het mengglas met ijsblokjes. Roer goed. Giet in een gekoeld cocktailglas.",
+    "garnish": "Garneer met een cocktailkers.",
+    "ingredients": [
+      {
+        "direction": "50 ml Roggewhisky",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Rogge Whisky"
+      },
+      {
+        "direction": "20 ml Zoete Rode Vermout",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Zoete Rode Vermout"
+      },
+      {
+        "direction": "1 scheutje Angostura Bitters",
+        "quantity": "1",
+        "unit": "streepje",
+        "ingredient": "Angostura-bitters"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Martinez",
+    "method": "Giet alle ingrediënten in het mengglas met ijsblokjes. Roer goed. Giet in een gekoeld cocktailglas.",
+    "garnish": "Citroenschil.",
+    "ingredients": [
+      {
+        "direction": "45 ml London Dry Gin",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Droge Gin uit Londen"
+      },
+      {
+        "direction": "45 ml Zoete Rode Vermout",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Zoete Rode Vermout"
+      },
+      {
+        "direction": "1 Barlepel Maraschino Likeur",
+        "quantity": "1",
+        "unit": "bar lepel",
+        "ingredient": "Maraschino-likeur"
+      },
+      {
+        "direction": "2 streepjes oranje bittertjes",
+        "quantity": "2",
+        "unit": "streepje",
+        "ingredient": "Oranje bittertjes"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Mary Pickford",
+    "method": "Giet alle ingrediënten in een cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "45 ml Witte Rum",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Witte Rum"
+      },
+      {
+        "direction": "45 ml vers ananassap",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Vers ananassap"
+      },
+      {
+        "direction": "7,5 ml Maraschino Luxardo",
+        "quantity": "7.5",
+        "unit": "ml",
+        "ingredient": "Maraschino Luxardo"
+      },
+      {
+        "direction": "5 ml Grenadinesiroop",
+        "quantity": "5",
+        "unit": "ml",
+        "ingredient": "Grenadinesiroop"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Monkey Gland",
+    "method": "Giet alle ingrediënten in een cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "45 ml Droge Gin",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Droge jenever"
+      },
+      {
+        "direction": "45 ml vers sinaasappelsap",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Vers sinaasappelsap"
+      },
+      {
+        "direction": "1 Eetlepel Absint",
+        "quantity": "1",
+        "unit": "eetlepel",
+        "ingredient": "Absint"
+      },
+      {
+        "direction": "1 eetlepel Grenadinesiroop",
+        "quantity": "1",
+        "unit": "eetlepel",
+        "ingredient": "Grenadinesiroop"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Negroni",
+    "method": "Giet alle ingrediënten rechtstreeks in een gekoeld ouderwets glas gevuld met ijs en roer voorzichtig.",
+    "garnish": "Garneer met een half schijfje sinaasappel.",
+    "ingredients": [
+      {
+        "direction": "30ml Jenever",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "30 ml Bittere Campari",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Bittere Campari"
+      },
+      {
+        "direction": "30 ml Zoete Rode Vermout",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Zoete Rode Vermout"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Old Fashioned",
+    "method": "Doe het suikerklontje in een ouderwets glas en verzadig het met bitter, voeg een paar scheutjes gewoon water toe. Doormodderen totdat het is opgelost. Vul het glas met ijsblokjes en voeg whisky toe. Roer voorzichtig.",
+    "garnish": "Garneer met een schijfje sinaasappel of schil en een cocktailkers.",
+    "ingredients": [
+      {
+        "direction": "45 ml Bourbon- of Roggewhisky",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Bourbon- of roggewhisky"
+      },
+      {
+        "direction": "1 Suikerklontje",
+        "quantity": "1",
+        "unit": "deel",
+        "ingredient": "Suikerklontje"
+      },
+      {
+        "direction": "Enkele streepjes Angostura Bitters",
+        "quantity": "weinig",
+        "unit": "streepje",
+        "ingredient": "Angostura-bitters"
+      },
+      {
+        "direction": "Een paar streepjes gewoon water",
+        "quantity": "weinig",
+        "unit": "streepje",
+        "ingredient": "Gewoon water"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Paradise",
+    "method": "Giet alle ingrediënten in de cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "30ml Jenever",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "20 ml Abrikozenbrandewijn",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Abrikozenbrandewijn"
+      },
+      {
+        "direction": "15 ml vers sinaasappelsap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers sinaasappelsap"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Planter's Punch",
+    "method": "Giet alle ingrediënten rechtstreeks in een kleine beker of een typisch terracotta glas. OPMERKING: Voeg naar smaak verdunning toe, deze kan worden gegeven met water, ijs of verse sappen.",
+    "garnish": "Garneer met sinaasappelschil.",
+    "ingredients": [
+      {
+        "direction": "45 ml Jamaicaanse Rum",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Jamaicaanse Rum"
+      },
+      {
+        "direction": "15 ml Limoensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Limoensap"
+      },
+      {
+        "direction": "30 ml suikerrietsap",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Suikerrietsap"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Porto Flip",
+    "method": "Giet alle ingrediënten in een cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "garnish": "Bestrooi met vers gemalen nootmuskaat.",
+    "ingredients": [
+      {
+        "direction": "15 ml Brandewijn",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Brandewijn"
+      },
+      {
+        "direction": "45 ml Rode Tawny Portwijn",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Rode Tawny Portwijn"
+      },
+      {
+        "direction": "10 ml Eigeel",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Eigeel"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Ramos Fizz",
+    "method": "Giet alle ingrediënten behalve frisdrankwater in een cocktailshaker met ijs, schud gedurende twee minuten, dubbele zeef in een glas, giet de drank terug in de shaker en schud krachtig zonder ijs gedurende één minuut. Zeef het in een longdrinkglas en vul aan met frisdrank. OPMERKING: Het drankje werd uitgevonden door Henry Ramos in 1888, in zijn bar Meyer's Table d'Hôtel Internationale in New Orleans. De Ramos Fizz werd oorspronkelijk gedurende 12 minuten geschud door een ploeg van 30 barmannen die de shaker van de een naar de ander passeerden.",
+    "ingredients": [
+      {
+        "direction": "45 ml Jenever",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "15 ml vers limoensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers limoensap"
+      },
+      {
+        "direction": "15 ml vers citroensap",
+        "quantity": "15",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "30 ml suikersiroop",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Suikersiroop"
+      },
+      {
+        "direction": "60ml Crème",
+        "quantity": "60",
+        "unit": "ml",
+        "ingredient": "Room"
+      },
+      {
+        "direction": "30ml Eiwit",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Eiwit"
+      },
+      {
+        "direction": "3 streepjes Oranje Bloemenwater",
+        "quantity": "3",
+        "unit": "streepje",
+        "ingredient": "Oranje bloemwater"
+      },
+      {
+        "direction": "2 druppels vanille-extract",
+        "quantity": "2",
+        "unit": "druppels",
+        "ingredient": "Vanille-extract"
+      },
+      {
+        "direction": "Sodawater",
+        "quantity": "1",
+        "unit": "bijvullen",
+        "ingredient": "Sodawater"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Rusty Nail",
+    "method": "Giet alle ingrediënten rechtstreeks in een ouderwets glas gevuld met ijs. Roer voorzichtig.",
+    "garnish": "Garneer met citroenschil.",
+    "ingredients": [
+      {
+        "direction": "45 ml Schotse whisky",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Schotse whisky"
+      },
+      {
+        "direction": "25 ml Drambuie",
+        "quantity": "25",
+        "unit": "ml",
+        "ingredient": "Drambuie"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Sazerac",
+    "method": "Spoel een gekoeld ouderwets glas om met de absint, voeg crushed ijs toe en zet het opzij. Roer de overige ingrediënten over ijs in een mengglas. Gooi het ijs en eventuele overtollige absint uit het voorbereide glas weg en zeef het gemengde drankje in het glas.  OPMERKING: Het originele recept veranderde na de Amerikaanse Burgeroorlog. Rye Whiskey verving Cognac omdat het moeilijk verkrijgbaar werd.",
+    "garnish": "Garneer met citroenschil.",
+    "ingredients": [
+      {
+        "direction": "50 ml Cognac",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Cognac"
+      },
+      {
+        "direction": "10 ml Absint",
+        "quantity": "10",
+        "unit": "ml",
+        "ingredient": "Absint"
+      },
+      {
+        "direction": "1 Suikerklontje",
+        "quantity": "1",
+        "unit": "deel",
+        "ingredient": "Suikerklontje"
+      },
+      {
+        "direction": "2 Streepjes Peychauds Bitters",
+        "quantity": "2",
+        "unit": "streepje",
+        "ingredient": "Peychauds bitters"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Sidecar",
+    "method": "Giet alle ingrediënten in een cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "50 ml Cognac",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Cognac"
+      },
+      {
+        "direction": "20 ml Drievoudige Sec",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Drievoudige sec"
+      },
+      {
+        "direction": "20 ml vers citroensap",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Stinger",
+    "method": "Giet alle ingrediënten in het mengglas met ijsblokjes. Roer goed. Zeef in een gekoeld martini-cocktailglas.",
+    "garnish": "Optioneel muntverlof.",
+    "ingredients": [
+      {
+        "direction": "50 ml Cognac",
+        "quantity": "50",
+        "unit": "ml",
+        "ingredient": "Cognac"
+      },
+      {
+        "direction": "20 ml Witte Crème de Menthe",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Witte Crème de Menthe"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Tuxedo",
+    "method": "Giet alle ingrediënten in het mengglas met ijsblokjes. Roer goed. Zeef in een gekoeld martini-cocktailglas.",
+    "garnish": "Garneer met kersen- en citroenschil",
+    "ingredients": [
+      {
+        "direction": "30 ml Old Tom Gin",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Oude Tom Gin"
+      },
+      {
+        "direction": "30 ml Droge Vermout",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Droge vermout"
+      },
+      {
+        "direction": "1/2 Barlepel Maraschino Luxardo",
+        "quantity": "1/2",
+        "unit": "bar lepel",
+        "ingredient": "Maraschino Luxardo"
+      },
+      {
+        "direction": "1/4 barlepel Absint",
+        "quantity": "1/4",
+        "unit": "bar lepel",
+        "ingredient": "Absint"
+      },
+      {
+        "direction": "3 streepjes oranje bittertjes",
+        "quantity": "3",
+        "unit": "streepje",
+        "ingredient": "Oranje bittertjes"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Vieux Carrè",
+    "method": "Giet alle ingrediënten in het mengglas met ijsblokjes. Roer goed. Giet in een gekoeld cocktailglas.",
+    "garnish": "Garneer met sinaasappelschil en marasquinkers.",
+    "ingredients": [
+      {
+        "direction": "30 ml Roggewhisky",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Rogge Whisky"
+      },
+      {
+        "direction": "30 ml Cognac",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Cognac"
+      },
+      {
+        "direction": "30 ml Zoete Vermout",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Zoete Vermout"
+      },
+      {
+        "direction": "1 Barlepel Bénédictine",
+        "quantity": "1",
+        "unit": "bar lepel",
+        "ingredient": "Benedictijner"
+      },
+      {
+        "direction": "2 Streepjes Peychauds Bitters",
+        "quantity": "2",
+        "unit": "streepje",
+        "ingredient": "Peychauds bitters"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "Whiskey Sour",
+    "method": "Giet alle ingrediënten in een cocktailshaker gevuld met ijs. Goed schudden. Zeef in schoenmakersglas. Indien “On the Rocks” geserveerd, zeef de ingrediënten in een ouderwets glas gevuld met ijs.  OPMERKING: Als u eiwit gebruikt, schudt u iets harder om het schuim uit het eiwit los te laten.",
+    "garnish": "Garneer met een half schijfje sinaasappel en maraschinokers, eventueel met sinaasappelschil.",
+    "ingredients": [
+      {
+        "direction": "45 ml Bourbonwhisky",
+        "quantity": "45",
+        "unit": "ml",
+        "ingredient": "Bourbon-whisky"
+      },
+      {
+        "direction": "25 ml vers citroensap",
+        "quantity": "25",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      },
+      {
+        "direction": "20 ml suikersiroop",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Suikersiroop"
+      },
+      {
+        "direction": "20 ml eiwit (optioneel)",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Eiwit",
+        "note": "Optioneel"
+      }
+    ]
+  },
+  {
+    "category": "De onvergetelijke momenten",
+    "name": "White Lady",
+    "method": "Giet alle ingrediënten in een cocktailshaker, schud goed met ijs en zeef in een gekoeld cocktailglas.",
+    "ingredients": [
+      {
+        "direction": "40ml Jenever",
+        "quantity": "40",
+        "unit": "ml",
+        "ingredient": "Gin"
+      },
+      {
+        "direction": "30 ml Drievoudige Sec",
+        "quantity": "30",
+        "unit": "ml",
+        "ingredient": "Drievoudige sec"
+      },
+      {
+        "direction": "20 ml vers citroensap",
+        "quantity": "20",
+        "unit": "ml",
+        "ingredient": "Vers citroensap"
+      }
+    ]
+  }
+]
